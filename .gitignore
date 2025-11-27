@@ -8,3 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
+
+#makes sure logs don't get committed to repo
+game_state.jsonl
